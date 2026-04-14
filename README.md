@@ -1,2 +1,2 @@
 # Python-Begins-for-Real
-basic Python coding - and some
+basic Python coding - and then some
